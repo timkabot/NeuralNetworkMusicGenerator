@@ -1,6 +1,9 @@
 # NeuralNetworkMusicGenerator
 ReadMe
 
+Technologies;
+GAN, CGAN, WGAN, CWGAN-GP, LSTM, GPT-2
+
 Windows programs:
 You need to install MuseScore3
 https://musescore.org/en/3.0
